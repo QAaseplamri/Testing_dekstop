@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestingDesktop,,,,21-06-2024 15:28:23,21-06-2024 15:28:25,2.541s,FAILED
+,,,,,,,
+Test Cases/TC_1,,,,21-06-2024 15:28:25,21-06-2024 15:28:25,0.072s,FAILED
+"startApplicationWithTitle(""C:\Windows\System32\notepad.exe"", ""Coba"")",,,,21-06-2024 15:28:25,21-06-2024 15:28:25,0.026s,FAILED
+,,,,,,,
+Test Cases/TC_2,,,,21-06-2024 15:28:25,21-06-2024 15:28:25,0.042s,FAILED
+"startApplicationWithTitle(""C:\Windows\System32\notepad.exe"", ""Coba"")",,,,21-06-2024 15:28:25,21-06-2024 15:28:25,0.017s,FAILED
+,,,,,,,
+Test Cases/TC_3,,,,21-06-2024 15:28:25,21-06-2024 15:28:25,0.043s,FAILED
+"startApplicationWithTitle(""C:\Windows\System32\notepad.exe"", ""Coba"")",,,,21-06-2024 15:28:25,21-06-2024 15:28:25,0.017s,FAILED

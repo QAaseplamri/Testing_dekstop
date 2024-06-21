@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestingDesktop,,,,26-01-2024 16:47:02,26-01-2024 16:47:48,46.682s,PASSED
+,,,,,,,
+Test Cases/TC_1,,,,26-01-2024 16:47:02,26-01-2024 16:47:17,14.831s,PASSED
+"startApplicationWithTitle(""C:\Windows\System32\notepad.exe"", ""Coba"")",,,,26-01-2024 16:47:02,26-01-2024 16:47:04,1.570s,PASSED
+"setText(findWindowsObject(""Object Repository/Edit""), ""Di akhir jalur pembelajaran ini, Anda akan dapat menggunakan Katalon untuk mengotomatiskan proyek pengujian UI web Anda."")",,,,26-01-2024 16:47:04,26-01-2024 16:47:12,7.893s,PASSED
+closeApplication(),,,,26-01-2024 16:47:12,26-01-2024 16:47:17,5.057s,PASSED
+,,,,,,,
+Test Cases/TC_2,,,,26-01-2024 16:47:17,26-01-2024 16:47:38,21.391s,PASSED
+"startApplicationWithTitle(""C:\Windows\System32\notepad.exe"", ""Coba"")",,,,26-01-2024 16:47:17,26-01-2024 16:47:17,0.324s,PASSED
+"setText(findWindowsObject(""Object Repository/Edit""), ""Anda akan mempelajari cara menyiapkan Katalon dengan cepat dan menggunakan berbagai teknik serta solusi kode rendah untuk membuat, mengatur, mengelola, menjalankan pengujian otomatis di lingkungan berbeda, dan mengelola laporan dalam satu platform."")",,,,26-01-2024 16:47:17,26-01-2024 16:47:33,15.915s,PASSED
+closeApplication(),,,,26-01-2024 16:47:33,26-01-2024 16:47:38,5.051s,PASSED
+,,,,,,,
+Test Cases/TC_3,,,,26-01-2024 16:47:38,26-01-2024 16:47:48,10.231s,PASSED
+"startApplicationWithTitle(""C:\Windows\System32\notepad.exe"", ""Coba"")",,,,26-01-2024 16:47:38,26-01-2024 16:47:39,0.338s,PASSED
+"setText(findWindowsObject(""Object Repository/Edit""), ""Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian UI Web."")",,,,26-01-2024 16:47:39,26-01-2024 16:47:48,9.814s,PASSED

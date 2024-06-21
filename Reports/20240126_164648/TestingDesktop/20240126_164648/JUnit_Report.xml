@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestingDesktop" time="46.682" tests="3" failures="0" errors="0">
+   <testsuite name="TestingDesktop" tests="3" failures="0" errors="0" time="46.682" skipped="0" timestamp="26-01-2024T16:47:02" hostname="0767 - DESKTOP-SQ56SGT" id="Test Suites/TestingDesktop">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\0767\\Katalon Studio\\Teting Desktop\\Reports\\20240126_164648\\TestingDesktop\\20240126_164648"/>
+         <property name="logFiles" value="C:\\Users\\0767\\Katalon Studio\\Teting Desktop\\Reports\\20240126_164648\\TestingDesktop\\20240126_164648\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="0767 - DESKTOP-SQ56SGT"/>
+         <property name="hostAddress" value="172.16.0.2"/>
+         <property name="desiredCapabilities" value="{}"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+      </properties>
+      <testcase name="Test Cases/TC_1" time="14.831" classname="Test Cases/TC_1" status="PASSED">
+         <system-out><![CDATA[26-01-2024T16:47:02 - [TEST_CASE][PASSED] - Test Cases/TC_1: Test Cases/TC_1
+
+26-01-2024T16:47:02 - [TEST_STEP][PASSED] - startApplicationWithTitle("C:\Windows\System32\notepad.exe", "Coba"): The application at location: C:\Windows\System32\notepad.exe started.
+
+26-01-2024T16:47:03 - [MESSAGE][INFO] - Starting application C:\Windows\System32\notepad.exe on the local machine at address http://127.0.0.1:4723
+
+26-01-2024T16:47:04 - [MESSAGE][PASSED] - The application at location: C:\Windows\System32\notepad.exe started.
+
+26-01-2024T16:47:04 - [TEST_STEP][PASSED] - setText(findWindowsObject("Object Repository/Edit"), "Di akhir jalur pembelajaran ini, Anda akan dapat menggunakan Katalon untuk mengotomatiskan proyek pengujian UI web Anda."): Text Di akhir jalur pembelajaran ini, Anda akan dapat menggunakan Katalon untuk mengotomatiskan proyek pengujian UI web Anda. is set
+
+26-01-2024T16:47:12 - [MESSAGE][PASSED] - Text Di akhir jalur pembelajaran ini, Anda akan dapat menggunakan Katalon untuk mengotomatiskan proyek pengujian UI web Anda. is set
+
+26-01-2024T16:47:12 - [TEST_STEP][PASSED] - closeApplication(): Fire Close event sucessfully.
+
+26-01-2024T16:47:17 - [MESSAGE][PASSED] - Fire Close event sucessfully.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_2" time="21.391" classname="Test Cases/TC_2" status="PASSED">
+         <system-out><![CDATA[26-01-2024T16:47:17 - [TEST_CASE][PASSED] - Test Cases/TC_2: Test Cases/TC_2
+
+26-01-2024T16:47:17 - [TEST_STEP][PASSED] - startApplicationWithTitle("C:\Windows\System32\notepad.exe", "Coba"): The application at location: C:\Windows\System32\notepad.exe started.
+
+26-01-2024T16:47:17 - [MESSAGE][INFO] - Starting application C:\Windows\System32\notepad.exe on the local machine at address http://127.0.0.1:4723
+
+26-01-2024T16:47:17 - [MESSAGE][PASSED] - The application at location: C:\Windows\System32\notepad.exe started.
+
+26-01-2024T16:47:17 - [TEST_STEP][PASSED] - setText(findWindowsObject("Object Repository/Edit"), "Anda akan mempelajari cara menyiapkan Katalon dengan cepat dan menggunakan berbagai teknik serta solusi kode rendah untuk membuat, mengatur, mengelola, menjalankan pengujian otomatis di lingkungan berbeda, dan mengelola laporan dalam satu platform."): Text Anda akan mempelajari cara menyiapkan Katalon dengan cepat dan menggunakan berbagai teknik serta solusi kode rendah untuk membuat, mengatur, mengelola, menjalankan pengujian otomatis di lingkungan berbeda, dan mengelola laporan dalam satu platform. is set
+
+26-01-2024T16:47:33 - [MESSAGE][PASSED] - Text Anda akan mempelajari cara menyiapkan Katalon dengan cepat dan menggunakan berbagai teknik serta solusi kode rendah untuk membuat, mengatur, mengelola, menjalankan pengujian otomatis di lingkungan berbeda, dan mengelola laporan dalam satu platform. is set
+
+26-01-2024T16:47:33 - [TEST_STEP][PASSED] - closeApplication(): Fire Close event sucessfully.
+
+26-01-2024T16:47:38 - [MESSAGE][PASSED] - Fire Close event sucessfully.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC_3" time="10.231" classname="Test Cases/TC_3" status="PASSED">
+         <system-out><![CDATA[26-01-2024T16:47:38 - [TEST_CASE][PASSED] - Test Cases/TC_3: Test Cases/TC_3
+
+26-01-2024T16:47:38 - [TEST_STEP][PASSED] - startApplicationWithTitle("C:\Windows\System32\notepad.exe", "Coba"): The application at location: C:\Windows\System32\notepad.exe started.
+
+26-01-2024T16:47:38 - [MESSAGE][INFO] - Starting application C:\Windows\System32\notepad.exe on the local machine at address http://127.0.0.1:4723
+
+26-01-2024T16:47:39 - [MESSAGE][PASSED] - The application at location: C:\Windows\System32\notepad.exe started.
+
+26-01-2024T16:47:39 - [TEST_STEP][PASSED] - setText(findWindowsObject("Object Repository/Edit"), "Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian UI Web."): Text Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian UI Web. is set
+
+26-01-2024T16:47:48 - [MESSAGE][PASSED] - Text Jalur pembelajaran ini ditujukan untuk penguji manual, pemula otomatisasi, dan siapa saja yang ingin menjelajahi Platform Katalon untuk pengujian UI Web. is set]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[26-01-2024T16:47:02 - [TEST_SUITE][PASSED] - TestingDesktop: Test Cases/TC_3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
