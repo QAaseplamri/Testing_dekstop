@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS_Wikipedia" time="39.06" tests="1" failures="0" errors="0">
+   <testsuite name="TS_Wikipedia" tests="1" failures="0" errors="0" time="39.06" skipped="0" timestamp="21-06-2024T10:54:56" hostname="1556 - LAPTOP-PT885S91" id="Test Suites/TS_Wikipedia">
+      <properties>
+         <property name="deviceName"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\1556\\Katalon Studio\\Automation Desktop\\Reports\\20240621_105451\\TS_Wikipedia\\20240621_105451"/>
+         <property name="logFiles" value="C:\\Users\\1556\\Katalon Studio\\Automation Desktop\\Reports\\20240621_105451\\TS_Wikipedia\\20240621_105451\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="1556 - LAPTOP-PT885S91"/>
+         <property name="hostAddress" value="192.168.10.45"/>
+         <property name="desiredCapabilities" value="{}"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+      </properties>
+      <testcase name="Test Cases/TC_Wikipedia" time="38.85" classname="Test Cases/TC_Wikipedia" status="PASSED">
+         <system-out><![CDATA[21-06-2024T10:54:56 - [TEST_CASE][PASSED] - Test Cases/TC_Wikipedia: Test Cases/TC_Wikipedia
+
+21-06-2024T10:54:56 - [TEST_STEP][PASSED] - startApplicationWithTitle("C:\Users\1556\OneDrive\Desktop\Wikipedia.lnk", "Wikipedia"): The application at location: C:\Users\1556\OneDrive\Desktop\Wikipedia.lnk started.
+
+21-06-2024T10:54:56 - [MESSAGE][INFO] - Starting application C:\Users\1556\OneDrive\Desktop\Wikipedia.lnk on the local machine at address http://127.0.0.1:4723
+
+21-06-2024T10:54:59 - [MESSAGE][INFO] - Start finding a window that matches with title 'C:\Users\1556\OneDrive\Desktop\Wikipedia.lnk' in 120,000 millisecond(s)
+
+21-06-2024T10:55:24 - [MESSAGE][PASSED] - The application at location: C:\Users\1556\OneDrive\Desktop\Wikipedia.lnk started.
+
+21-06-2024T10:55:24 - [TEST_STEP][PASSED] - waitForElementPresent(findWindowsObject("Wikipedia/SearchBox Wikipedia"), 5): Object 'Object Repository/Wikipedia/SearchBox Wikipedia' is present
+
+21-06-2024T10:55:24 - [MESSAGE][PASSED] - Object 'Object Repository/Wikipedia/SearchBox Wikipedia' is present
+
+21-06-2024T10:55:24 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+21-06-2024T10:55:25 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-06-2024T10:55:25 - [TEST_STEP][PASSED] - Utils.setTextAndEnter(findWindowsObject("Wikipedia/SearchBox Wikipedia"), "Hello World"): Utils.setTextAndEnter is PASSED
+
+21-06-2024T10:55:26 - [MESSAGE][INFO] - Clicking on element: Object Repository/Wikipedia/SearchBox Wikipedia
+
+21-06-2024T10:55:26 - [MESSAGE][PASSED] - Click on element: Object Repository/Wikipedia/SearchBox Wikipedia succesfully
+
+21-06-2024T10:55:28 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-06-2024T10:55:29 - [MESSAGE][PASSED] - Text Hello World is set
+
+21-06-2024T10:55:31 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-06-2024T10:55:31 - [MESSAGE][PASSED] - Utils.setTextAndEnter is PASSED
+
+21-06-2024T10:55:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+21-06-2024T10:55:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-06-2024T10:55:33 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+21-06-2024T10:55:35 - [MESSAGE][PASSED] - Delayed 2 second(s)]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[21-06-2024T10:54:56 - [TEST_SUITE][PASSED] - TS_Wikipedia: Test Cases/TC_Wikipedia]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

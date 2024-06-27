@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Wikipedia_menuRandom</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58175562-5fa7-4002-9973-fc7a6b950f4d</testCaseGuid>
+</TestCaseEntity>

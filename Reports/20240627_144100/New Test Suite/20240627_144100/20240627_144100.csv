@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,,,,27-06-2024 14:41:10,27-06-2024 14:41:14,4.058s,FAILED
+,,,,,,,
+Test Cases/Test/TC_Wikipedia_Search,,,,27-06-2024 14:41:14,27-06-2024 14:41:14,0.280s,FAILED
+"startApplicationWithTitle(""C:\Users\0767\OneDrive\Desktop\Wikipedia.lnk"", ""Wikipedia"")",,,,27-06-2024 14:41:14,27-06-2024 14:41:14,0.257s,FAILED

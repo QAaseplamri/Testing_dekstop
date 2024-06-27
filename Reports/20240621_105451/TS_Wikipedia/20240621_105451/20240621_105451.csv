@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS_Wikipedia,,,,21-06-2024 10:54:56,21-06-2024 10:55:35,39.060s,PASSED
+,,,,,,,
+Test Cases/TC_Wikipedia,,,,21-06-2024 10:54:56,21-06-2024 10:55:35,38.850s,PASSED
+"startApplicationWithTitle(""C:\Users\1556\OneDrive\Desktop\Wikipedia.lnk"", ""Wikipedia"")",,,,21-06-2024 10:54:56,21-06-2024 10:55:24,27.628s,PASSED
+"waitForElementPresent(findWindowsObject(""Wikipedia/SearchBox Wikipedia""), 5)",,,,21-06-2024 10:55:24,21-06-2024 10:55:24,0.402s,PASSED
+delay(1),,,,21-06-2024 10:55:24,21-06-2024 10:55:25,1.036s,PASSED
+"Utils.setTextAndEnter(findWindowsObject(""Wikipedia/SearchBox Wikipedia""), ""Hello World"")",,,,21-06-2024 10:55:25,21-06-2024 10:55:31,5.421s,PASSED
+delay(2),,,,21-06-2024 10:55:31,21-06-2024 10:55:33,2.017s,PASSED
+delay(2),,,,21-06-2024 10:55:33,21-06-2024 10:55:35,2.013s,PASSED
